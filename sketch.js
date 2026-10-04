@@ -92,7 +92,7 @@ class NetworkNode {
 function setup() {
 
   createCanvas(windowWidth, windowHeight);
-  canvas.position(0, 0);
+  
 
   textFont("Arial");
 
